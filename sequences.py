@@ -7,3 +7,5 @@ fruits = [
     'BaNaNa', 'Persimmon   '
 ]
 
+for i, c in enumerate(ctemps):
+    print(i, c)
