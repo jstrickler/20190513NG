@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+import csv
 from pprint import pprint
 
 # with open('/Users/jstrick/Desktop/py3intro/DATA/mary.txt') as mary_in:
@@ -35,7 +36,7 @@ print(titles)
 print('-' * 60)
 
 knight_data = []
-with open('DATA/knights.txt') as knights_in:
+with open('DATA/knights.txt', 'r') as knights_in:
     for raw_line in knights_in:
         line = raw_line.rstrip()
         fields = line.split(':')
@@ -48,5 +49,26 @@ print(titles)
 
 names = [k[0] for k in knight_data]
 print(names)
+
+
+with open('knight_names.txt', 'w') as knight_names_out:
+    for name in names:
+        knight_names_out.write(name + '\n')
+
+
+with open('DATA/knights.txt') as knights_in:
+    with open('knights.csv', 'w') as knights_out:
+        wtr = csv.writer(knights_out)
+        for raw_line in knights_in:
+            fields = raw_line.rstrip().split(':')
+            wtr.writerow(fields)
+
+import pandas as pd
+
+df = pd.read_csv('knights.csv', names=['Name', 'Title', 'Color', 'Quest', 'Comment'])
+
+print(df)
+
+print(df.Name)
 
 
