@@ -2,25 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b74b361f-1cde-49d1-b99d-b8b5e25a1090" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ng/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng/central/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng/east/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng/west/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ng/west/ngtools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regex_syntax.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usengtools1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usengtools2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usengtools3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usengtools4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usengtools5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usengtools6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/betsy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carddeck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/date_examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grab_web_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jokerdeck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/play_cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sys_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/walking_folders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_paths_and_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zip_folder_and_contents.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXAMPLES/regex_finding_matches.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/regex_finding_matches.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXAMPLES/regex_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/regex_group.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXAMPLES/regex_objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/regex_objects.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXAMPLES/regex_special.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/regex_special.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXAMPLES/regex_sub.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/regex_sub.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXAMPLES/regex_sub_callback.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/regex_sub_callback.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/email_simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/email_simple.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,83 +23,73 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/regex_syntax.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="68" selection-start-line="68" selection-end-line="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_finding_matches.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="14" column="20" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_objects.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="50" column="36" lean-forward="true" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_group.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_special.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_sub.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
-              <caret line="4" column="53" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_sub_callback.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-              <folding>
-                <element signature="e#734#880#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_split.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.3564431">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/carddeck.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="81">
+                  <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+                  <folding>
+                    <element signature="e#89#93#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/play_cards.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="468">
+                  <caret line="58" selection-start-line="58" selection-end-line="58" />
+                  <folding>
+                    <element signature="e#22#51#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/carddeck.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="360">
+                  <caret line="59" column="38" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
+                  <folding>
+                    <element signature="e#93#171#0" expanded="true" />
+                    <element signature="e#329#346#0" expanded="true" />
+                    <element signature="e#422#581#0" expanded="true" />
+                    <element signature="e#512#530#0" expanded="true" />
+                    <element signature="e#581#598#0" expanded="true" />
+                    <element signature="e#634#658#0" expanded="true" />
+                    <element signature="e#162#186#0" expanded="true" />
+                    <element signature="e#333#504#0" expanded="true" />
+                    <element signature="e#1047#1073#0" expanded="true" />
+                    <element signature="e#1178#1187#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/jokerdeck.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="297">
+                  <caret line="11" selection-start-line="11" selection-end-line="11" />
+                  <folding>
+                    <element signature="e#120#226#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -115,17 +99,18 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pig</find>
+      <find>wombat</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/junk.py" />
-        <option value="$PROJECT_DIR$/numeric_examples.py" />
-        <option value="$PROJECT_DIR$/writing_to_screen.py" />
-        <option value="$PROJECT_DIR$/reading_keyboard_input.py" />
-        <option value="$PROJECT_DIR$/getting_cmd_line_args.py" />
         <option value="$PROJECT_DIR$/if_statement.py" />
         <option value="$PROJECT_DIR$/while_loops.py" />
         <option value="$PROJECT_DIR$/list_examples.py" />
@@ -166,6 +151,17 @@
         <option value="$PROJECT_DIR$/EXAMPLES/regex_sub.py" />
         <option value="$PROJECT_DIR$/EXAMPLES/regex_sub_callback.py" />
         <option value="$PROJECT_DIR$/EXAMPLES/regex_split.py" />
+        <option value="$PROJECT_DIR$/sys_module.py" />
+        <option value="$PROJECT_DIR$/working_with_paths_and_files.py" />
+        <option value="$PROJECT_DIR$/walking_folders.py" />
+        <option value="$PROJECT_DIR$/python_diff.py" />
+        <option value="$PROJECT_DIR$/grab_web_page.py" />
+        <option value="$PROJECT_DIR$/EXAMPLES/email_simple.py" />
+        <option value="$PROJECT_DIR$/date_examples.py" />
+        <option value="$PROJECT_DIR$/zip_folder_and_contents.py" />
+        <option value="$PROJECT_DIR$/jokerdeck.py" />
+        <option value="$PROJECT_DIR$/carddeck.py" />
+        <option value="$PROJECT_DIR$/play_cards.py" />
       </list>
     </option>
   </component>
@@ -229,7 +225,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DATA" />
     <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -248,6 +244,7 @@
       <recent name="$PROJECT_DIR$/ng/west" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DATA" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/EXAMPLES" />
     </key>
@@ -264,8 +261,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.regex_split">
-    <configuration name="regex_group" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.play_cards">
+    <configuration name="carddeck" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,11 +270,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/regex_group.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/carddeck.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regex_special" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="date_examples" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,11 +291,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/regex_special.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/date_examples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,7 +304,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regex_split" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="email_simple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -319,7 +316,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/regex_split.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/email_simple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -328,7 +325,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regex_sub" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="play_cards" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -336,11 +333,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/regex_sub.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/play_cards.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,7 +346,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regex_sub_callback" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zip_folder_and_contents" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -357,11 +354,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/regex_sub_callback.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zip_folder_and_contents.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -371,19 +368,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.regex_group" />
-      <item itemvalue="Python.regex_special" />
-      <item itemvalue="Python.regex_sub" />
-      <item itemvalue="Python.regex_sub_callback" />
-      <item itemvalue="Python.regex_split" />
+      <item itemvalue="Python.email_simple" />
+      <item itemvalue="Python.date_examples" />
+      <item itemvalue="Python.zip_folder_and_contents" />
+      <item itemvalue="Python.play_cards" />
+      <item itemvalue="Python.carddeck" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.regex_split" />
-        <item itemvalue="Python.regex_sub_callback" />
-        <item itemvalue="Python.regex_sub" />
-        <item itemvalue="Python.regex_special" />
-        <item itemvalue="Python.regex_group" />
+        <item itemvalue="Python.play_cards" />
+        <item itemvalue="Python.carddeck" />
+        <item itemvalue="Python.zip_folder_and_contents" />
+        <item itemvalue="Python.date_examples" />
+        <item itemvalue="Python.email_simple" />
       </list>
     </recent_temporary>
   </component>
@@ -401,12 +398,12 @@
     <frame x="4" y="23" width="1348" height="983" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20422004" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21627732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32949308" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.359447" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27880183" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -440,101 +437,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/getting_cmd_line_args.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reading_keyboard_input.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/if_statement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/while_loops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EXAMPLES/typical_arrays.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/struct_example.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" selection-start-line="2" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#23#33#0" expanded="true" />
-            <element signature="e#180#501#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sequences.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/list_comprehensions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/range_functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sequence_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/list_examples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="16" selection-start-line="3" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pastable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tuple_examples.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -828,6 +730,121 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/betsy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zip_folder_and_contents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date_examples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLES/email_attach.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLES/email_simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding>
+            <element signature="e#22#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grab_web_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="e#22#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/walking_folders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/working_with_paths_and_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sys_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#22#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carddeck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="59" column="38" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
+          <folding>
+            <element signature="e#93#171#0" expanded="true" />
+            <element signature="e#329#346#0" expanded="true" />
+            <element signature="e#422#581#0" expanded="true" />
+            <element signature="e#512#530#0" expanded="true" />
+            <element signature="e#581#598#0" expanded="true" />
+            <element signature="e#634#658#0" expanded="true" />
+            <element signature="e#162#186#0" expanded="true" />
+            <element signature="e#333#504#0" expanded="true" />
+            <element signature="e#1047#1073#0" expanded="true" />
+            <element signature="e#1178#1187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play_cards.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#22#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jokerdeck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#120#226#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
