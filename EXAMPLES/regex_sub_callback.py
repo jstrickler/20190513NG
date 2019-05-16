@@ -24,3 +24,11 @@ def update_code(m):  # <1>
 
 s2 = rx_code.sub(update_code, s)  # <3>
 print(s2)
+
+
+def wombat(x):
+    return "***" + x.group() + '***'
+
+
+print(rx_code.sub(wombat, s))
+

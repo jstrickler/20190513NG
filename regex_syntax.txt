@@ -1,0 +1,77 @@
+
+
+ pet     "petunia"  "a pet is your friend" "clean the carpet"
+
+ p.t     "keep to the right"    "m/p/t/a"
+
+ p\.t    "a.p.t.z"
+
+ p[aeiou]t    "spittoon"    "spate"     "put the patty on the barbie"
+
+ p[^aeiou]t   "p t"   "p,t"   "p.t"    "pAt"  "pzt"   "pmt"
+
+
+ p[a-z]t      "pft"
+
+ p[a-z0-9]t   "p0t"  "p9t"
+
+ \d+\.\d+    "1.6"   "3434534.4345345345"
+ \d*\.\d+    "1.6"   "3434534.4345345345"
+
+ [0-9]
+
+ pa*t    "pat"   "paaaaaaaaaaaaaaat"   "pt"
+
+ \s*\d+\s*
+
+ \d   [0-9]
+ \s   [ \t\n\r\f\b]
+ \w   [a-zA-Z0-9_]
+
+ \D   [^0-9]
+ \S   [^ \t\n\r\f\b]
+ \W   [^a-zA-Z0-9_]
+
+
+    \d\d\d-\d\d-\d\d\d\d
+
+
+
+ [A-Z][a-z]+
+
+
+    \d{3}-\d{2}-\d{4}
+
+   p[aeiou]{2}t
+
+   p[aeiou]{1,2}t
+
+
+   \d+\s+(\w+\s+)+(rd\.|road|st\.|street)
+
+
+   123 Elm St
+
+   234 Major Tom Road
+
+
+   ^   beginning of string (or embedded line with re.M)
+   $   end of string (or embedded line with re.M)
+   \b  beginning OR end of word
+
+   ^\d+$      "23432"  but not "   23903  "
+
+   ^\s*\d+\s*$    "23432" OR "     23903   "
+
+
+
+
+
+
+
+
+
+
+
+
+

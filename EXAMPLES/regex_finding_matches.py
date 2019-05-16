@@ -19,11 +19,11 @@ print()
 m = re.search(pattern, s)  # <3>
 print(m)
 if m:
-    print("Found:", m.group(0))  # <4>
+    print("Found:", m.group(0), m.start(), m.end(), m.span())  # <4>
 print()
 
 for m in re.finditer(pattern, s):  # <5>
-    print(m.group())
+    print(m.group(), m.span())
 print()
 
 matches = re.findall(pattern, s)  # <6>
